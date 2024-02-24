@@ -38,8 +38,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Пример использования
-
 ## Визуализация результатов
 
 #### Парный график
